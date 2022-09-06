@@ -58,6 +58,9 @@ def caesar(word, jump, action):
                 new_letter = alphabet[new_position]
                 decrypted_text += new_letter
 
+            else:
+                decrypted_text += char
+
         print("The decoded output is {}".format(decrypted_text))
 
 
