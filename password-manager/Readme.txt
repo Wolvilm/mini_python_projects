@@ -1,1 +1,0 @@
-This is based on Dr. Angela Yu's 100 days of code course on Udemy.
